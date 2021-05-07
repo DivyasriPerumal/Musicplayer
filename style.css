@@ -7,7 +7,7 @@ font-family: san-seriff;
 {
 height: 100vh;
 width: 100%;
-background-image: url(images/song.png);
+background-image: "song.png";
 background-size: cover;
 background-position:center;
 position:relative;
